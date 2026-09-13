@@ -1,0 +1,40 @@
+2) Decision‑Fatigue Firewall Checklist
+Section 1 — Decision Inventory
+List all daily decisions
+Identify repetitive decisions
+Identify draining decisions
+Identify avoidable decisions
+Identify delayed decisions
+Identify rushed decisions
+
+Section 2 — Automation Layer
+Automate recurring tasks
+Automate reminders
+Automate scheduling
+Automate templates
+Automate workflows
+Automate communication
+
+Section 3 — Reduction Layer
+Remove low‑value choices
+Remove cosmetic choices
+Remove redundant steps
+Remove optional tasks
+Remove multi‑step approvals
+Remove unnecessary reviews
+
+Section 4 — Priority Layer
+Define top 3 decisions
+Define non‑negotiables
+Define daily must‑dos
+Define weekly must‑dos
+Define monthly must‑dos
+Define "never decide" rules
+
+Section 5 — Protection Layer
+Block decision overload
+Block late‑night decisions
+Block emotional decisions
+Block rushed decisions
+Block multitasking
+Block context switching

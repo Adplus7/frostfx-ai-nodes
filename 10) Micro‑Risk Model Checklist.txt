@@ -1,0 +1,40 @@
+10) Micro‑Risk Model Checklist
+Section 1 — Micro‑Risk Mapping
+Map tiny risks
+Map daily risks
+Map recurring risks
+Map hidden risks
+Map emotional risks
+Map decision risks
+
+Section 2 — Micro‑Risk Scoring
+Score micro‑impact
+Score micro‑likelihood
+Score micro‑urgency
+Score micro‑visibility
+Score micro‑reversibility
+Score micro‑cost
+
+Section 3 — Micro‑Risk Controls
+Add micro‑safeguards
+Add micro‑filters
+Add micro‑protocols
+Add micro‑limits
+Add micro‑checks
+Add micro‑documentation
+
+Section 4 — Micro‑Risk Monitoring
+Monitor daily patterns
+Monitor emotional shifts
+Monitor decision quality
+Monitor operator fatigue
+Monitor task complexity
+Monitor risk signals
+
+Section 5 — Micro‑Risk Adjustments
+Adjust workflows
+Adjust timelines
+Adjust commitments
+Adjust expectations
+Adjust safeguards
+Adjust decisions

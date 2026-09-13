@@ -1,0 +1,40 @@
+15) Cashflow Architecture Checklist
+Section 1 — Cashflow Mapping
+Map income sources
+Map payout sources
+Map expense sources
+Map subscription sources
+Map node sources
+Map product sources
+
+Section 2 — Cashflow Inputs
+Add micro‑products
+Add new nodes
+Add daily signals
+Add automation
+Add visibility
+Add retrieval surfaces
+
+Section 3 — Cashflow Outputs
+Reduce unnecessary expenses
+Reduce subscription waste
+Reduce tool waste
+Reduce workflow waste
+Reduce time waste
+Reduce energy waste
+
+Section 4 — Cashflow Controls
+Set payout expectations
+Set expense limits
+Set reinvestment rules
+Set safeguard rules
+Set decision rules
+Set operator rules
+
+Section 5 — Cashflow Optimization
+Increase velocity
+Increase clarity
+Increase automation
+Increase discovery
+Increase retrieval
+Increase reinvestment

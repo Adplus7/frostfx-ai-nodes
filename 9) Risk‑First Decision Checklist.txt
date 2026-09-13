@@ -1,0 +1,40 @@
+9) Risk‑First Decision Checklist
+Section 1 — Risk Identification
+Identify emotional risk
+Identify financial risk
+Identify operational risk
+Identify reputational risk
+Identify time risk
+Identify opportunity risk
+
+Section 2 — Risk Evaluation
+Score risk severity
+Score risk likelihood
+Score risk impact
+Score risk urgency
+Score risk reversibility
+Score risk visibility
+
+Section 3 — Risk Filters
+Filter by cost
+Filter by time
+Filter by clarity
+Filter by complexity
+Filter by reversibility
+Filter by consequence
+
+Section 4 — Risk Mitigation
+Reduce exposure
+Reduce cost
+Reduce time
+Reduce complexity
+Reduce uncertainty
+Reduce dependency
+
+Section 5 — Risk Review
+Review outcomes
+Review mistakes
+Review blind spots
+Review assumptions
+Review improvements
+Review next steps

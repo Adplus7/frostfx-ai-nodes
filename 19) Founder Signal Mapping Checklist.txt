@@ -1,0 +1,40 @@
+19) Founder Signal Mapping Checklist
+Section 1 — Signal Identification
+Identify market signals
+Identify client signals
+Identify operator signals
+Identify product signals
+Identify node signals
+Identify capital signals
+
+Section 2 — Signal Strength
+Score signal clarity
+Score signal urgency
+Score signal reliability
+Score signal relevance
+Score signal visibility
+Score signal impact
+
+Section 3 — Signal Filters
+Filter noise
+Filter emotion
+Filter bias
+Filter assumptions
+Filter distractions
+Filter false positives
+
+Section 4 — Signal Response
+Respond quickly
+Respond clearly
+Respond strategically
+Respond safely
+Respond consistently
+Respond with documentation
+
+Section 5 — Signal Review
+Review weekly signals
+Review monthly signals
+Review signal accuracy
+Review signal outcomes
+Review signal patterns
+Review signal improvements

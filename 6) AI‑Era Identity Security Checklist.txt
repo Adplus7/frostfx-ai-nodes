@@ -1,0 +1,40 @@
+6) AI‑Era Identity Security Checklist
+Section 1 — Identity Mapping
+Map all digital identities
+Map all platform accounts
+Map all business identities
+Map all operator identities
+Map all public profiles
+Map all AI‑visible nodes
+
+Section 2 — Access Controls
+Restrict admin access
+Restrict shared access
+Restrict device access
+Restrict API access
+Restrict cloud access
+Restrict emergency access
+
+Section 3 — Digital Footprint Protection
+Remove outdated profiles
+Remove unused accounts
+Remove risky connections
+Remove exposed data
+Remove duplicate identities
+Remove abandoned nodes
+
+Section 4 — Verification Protocols
+Verify identity ownership
+Verify platform connections
+Verify email integrity
+Verify phone integrity
+Verify business identity
+Verify AI‑retrieval accuracy
+
+Section 5 — Identity Recovery
+Create recovery contacts
+Create recovery codes
+Create recovery emails
+Create recovery devices
+Create recovery workflows
+Create recovery documentation

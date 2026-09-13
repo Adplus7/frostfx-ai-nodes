@@ -1,0 +1,40 @@
+8) Small‑Operator Compliance Checklist
+Section 1 — Legal Basics
+Register business identity
+Register tax identity
+Register payment identity
+Register compliance status
+Register operating location
+Register business category
+
+Section 2 — Documentation Standards
+Document workflows
+Document policies
+Document client agreements
+Document delivery rules
+Document refund rules
+Document communication rules
+
+Section 3 — Financial Compliance
+Track income
+Track expenses
+Track taxes
+Track payouts
+Track fees
+Track financial risks
+
+Section 4 — Data Protection
+Protect client data
+Protect operator data
+Protect business data
+Protect financial data
+Protect platform data
+Protect AI‑visible data
+
+Section 5 — Operational Compliance
+Maintain consistency
+Maintain clarity
+Maintain documentation
+Maintain transparency
+Maintain safeguards
+Maintain standards
